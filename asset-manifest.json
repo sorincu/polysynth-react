@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/polysynth-react/public/index.html/static/css/main.31ae2369.chunk.css",
+    "main.js": "/polysynth-react/public/index.html/static/js/main.8d3b38f9.chunk.js",
+    "main.js.map": "/polysynth-react/public/index.html/static/js/main.8d3b38f9.chunk.js.map",
+    "runtime-main.js": "/polysynth-react/public/index.html/static/js/runtime-main.56d693d5.js",
+    "runtime-main.js.map": "/polysynth-react/public/index.html/static/js/runtime-main.56d693d5.js.map",
+    "static/js/2.2ef856f6.chunk.js": "/polysynth-react/public/index.html/static/js/2.2ef856f6.chunk.js",
+    "static/js/2.2ef856f6.chunk.js.map": "/polysynth-react/public/index.html/static/js/2.2ef856f6.chunk.js.map",
+    "index.html": "/polysynth-react/public/index.html/index.html",
+    "static/css/main.31ae2369.chunk.css.map": "/polysynth-react/public/index.html/static/css/main.31ae2369.chunk.css.map",
+    "static/js/2.2ef856f6.chunk.js.LICENSE.txt": "/polysynth-react/public/index.html/static/js/2.2ef856f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56d693d5.js",
+    "static/js/2.2ef856f6.chunk.js",
+    "static/css/main.31ae2369.chunk.css",
+    "static/js/main.8d3b38f9.chunk.js"
+  ]
+}
