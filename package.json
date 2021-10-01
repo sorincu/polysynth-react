@@ -1,6 +1,6 @@
 {
   "name": "drum-machine",
-  "homepage": "https://sorincu.github.io/polysynth-react/public/index.html",
+  "homepage": "https://sorincu.github.io/polysynth-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
